@@ -1,17 +1,16 @@
 # You can copy this file to config.py and add your info
 
 # Get API ID and HASH from https://my.telegram.org
-API_ID = 1234567
-API_HASH = "ab1c23def45fg67890h123i45678j9kl"
+API_ID = 2476060
+API_HASH = "bff61cd7183d2a37b00f1eb31c7025cc"
 
 # Get this from @Botfather
-BOT_TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
+BOT_TOKEN = "1794058294:AAGwDo-Ou9XXiKxO2ZE2IdmGpKISAVM1BLk"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    1076405679,
+    938805575
 ]
 
-CHAT_ID = -1001243271409  # ID of the group where the bot streams
+CHAT_ID = -1001331502340  # ID of the group where the bot streams
